@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/prithvireact/static/css/main.b6fbc0f7.css",
+    "main.js": "/prithvireact/static/js/main.32a7e9c9.js",
+    "static/media/about-image.JPG": "/prithvireact/static/media/about-image.cf365b2b8954d291da87.JPG",
+    "static/media/me.png": "/prithvireact/static/media/me.5f526fe7e776700d0b30.png",
+    "static/media/cv.pdf": "/prithvireact/static/media/cv.f27ab3bc9da49437347d.pdf",
+    "index.html": "/prithvireact/index.html",
+    "main.b6fbc0f7.css.map": "/prithvireact/static/css/main.b6fbc0f7.css.map",
+    "main.32a7e9c9.js.map": "/prithvireact/static/js/main.32a7e9c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6fbc0f7.css",
+    "static/js/main.32a7e9c9.js"
+  ]
+}
